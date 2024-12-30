@@ -1,0 +1,27 @@
+{
+  "title": "test 2",
+  "description": "",
+  "artist": "",
+  "author": "",
+  "cover": "",
+  "chapters": {
+    "1": {
+      "title": "1",
+      "volume": "1",
+      "last_updated": "1735602795",
+      "groups": {
+        "me": [
+          "https://drive.google.com/file/d/10J00WJHvZOY3EN5FFF0UB7TVpNUram0U/view?usp=drive_link",
+          "https://drive.google.com/file/d/1b3XPZLRy1oNl-gd4RD6JanXLwsyeTDTb/view?usp=drive_link",
+          "https://drive.google.com/file/d/1w9d3Aj1XJDk-_u2Aq_Qp9fiOcZAE6e8r/view?usp=drive_link",
+          "https://drive.google.com/file/d/1xAqxZeD1MQLdGvbitm3B0tbQFobxbjhg/view?usp=drive_link",
+          "https://drive.google.com/file/d/1VUVoIvm4wyrDNOe64ivDQ3j81yrZc8QW/view?usp=drive_link",
+          "https://drive.google.com/file/d/1-j3KNRBGl2l7zFPBGuIMBxXHyHYZojTJ/view?usp=drive_link",
+          "https://drive.google.com/file/d/1Zf0b1JaB9OGj2NoSQNyi9dzH1BEypF-j/view?usp=drive_link https://drive.google.com/file/d/1Ww_p1gVvPMECDVFQyZZNxTGSQIjA37EC/view?usp=drive_link https://drive.google.com/file/d/1RItf3zrr6QGOahDvOfxdF4dS381u9H9-/view?usp=drive_link",
+          "https://drive.google.com/file/d/1Ok-xWHGOW2n0hvjxpieKq6OzJp8aRVeJ/view?usp=drive_link",
+          "https://drive.google.com/file/d/1PPUGccnAGivFBmdBC2qIqSSvjHKvFWyj/view?usp=drive_link"
+        ]
+      }
+    }
+  }
+}
